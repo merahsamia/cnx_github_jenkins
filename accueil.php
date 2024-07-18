@@ -1,1 +1,1 @@
-<?php echo 'Connexion Github Jenkins'; ?>
+<?php echo 'Connexion Github Jenkins updated for jenkins'; ?>
